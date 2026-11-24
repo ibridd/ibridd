@@ -1,3 +1,3 @@
 <div>
-  <img src="banner.png" width="100%"><p><sub><i>Helo! I'm bridd ⭐<i\><sub\><p\>
+  <img src="banner.png" width="100%"><p><i>Helo! I'm bridd ⭐<i\><p\>
 <div\>
